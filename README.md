@@ -1,0 +1,2 @@
+# Wholesale-Customer-Segmentation
+To analyze the customer's behavior (purchases made in the past by the clients) to define the marketing strategy by using various clustering techniques to segment customers. Clustering is an unsupervised learning algorithm that tries to cluster data based on their similarity. Thus, there is no outcome to be predicted, and the algorithm just tries to find patterns in the data.
